@@ -34,7 +34,7 @@
 
 </br>
 
-** <img width="10" height="10" src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678190474/noticon/fenra4zau2wyqushekwb.png" > 추천 AI 툴**
+#### <img width="10" height="10" src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678190474/noticon/fenra4zau2wyqushekwb.png"> 추천 AI 툴
 
 - **ChatGPT**
 - **Perplexity AI**
