@@ -4,7 +4,9 @@
 # 🥇 퀘스트1 : AI에게 감사받기
 
 "네가 나한테 감사한 점을 이야기해줘. 나를 추앙하면서 이야기해줘."  
-<img width="1280" height="720" alt="image" src="https://gist.github.com/user-attachments/assets/788948cb-fcb5-4e28-a1f4-133f20b70358" />
+
+
+![구씨](https://github.com/user-attachments/assets/406798b2-5d34-4f9b-bb7b-ca702884534c)
 
 
 - **퀘스트 달성조건** : 당신의 마음이 가득 찼나요? 그러면 달성입니다!  
