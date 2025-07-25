@@ -105,3 +105,11 @@
 수행할 퀘스트: **본인의 팀을 제외한 다른 캠퍼의 학습정리와 나의 학습정리 비교 분석해보기**  
 이유: 다른 퀘스트의 경우 콘텐츠가 유출될 가능성을 우려하였고, 체크포인트의 경우 다소 유사한 점이 많아 비교 결과가 유의미하면서 깊은 학습에 보다 도움이 될 수 있는 해당 퀘스트를 선택하였다.  
 수행 내용: 다음 주 동안 적어도 2회 이상 타 그룹의 동료의 학습 정리와 본인의 학습 정리 중 한 주제에 대하여 AI에게 비교 분석을 요청한다. 분석 내용 중 본인이 더 알게 된 내용을 노션에 각자 기록하고 노션 링크를 Week1.md에 첨부한다.
+
+허세령 : https://scarce-frame-2fc.notion.site/Week01_J286-23ba8e4b18dd801fa957c4fdae57f221
+
+송지연 : https://www.notion.so/1-Week-1_S018-238db4cc6ee980bc94d3db7e60281f68?source=copy_link
+
+이유경 : https://dolomite-teal-9fc.notion.site/relay-note55-week1-23bc29ca6b7280c197ace798be9c5c7f?source=copy_link
+
+강내원 : https://www.notion.so/J001-Week1-23a04696268c801dbc5bf607255dee0f?source=copy_link
