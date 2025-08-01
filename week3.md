@@ -248,3 +248,38 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 ---
 
 </details>
+
+# 수행 기록
+선택한 퀘스트, 선택 이유, 수행 과정과 소감 등을 개별적으로 기록한다.   
+
+<details>
+<summary><span style="font-size:150%">J033</span></summary>
+    
+**선택한 퀘스트:** 
+**선택 이유:** 
+
+</details>
+
+<details>
+<summary><span style="font-size:150%">J090</span></summary>
+    
+**선택한 퀘스트:** 
+**선택 이유:** 
+
+</details>
+
+<details>
+<summary><span style="font-size:150%">J245</span></summary>
+    
+**선택한 퀘스트:** 
+**선택 이유:** 
+
+</details>
+
+<details>
+<summary><span style="font-size:150%">S004</span></summary>
+    
+**선택한 퀘스트:** 
+**선택 이유:** 
+
+</details>
