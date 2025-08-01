@@ -255,7 +255,8 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 <details>
 <summary><span style="font-size:150%">J033</span></summary>
     
-**선택한 퀘스트:** 
+**선택한 퀘스트:** 2. AI 면접관과 모의면접 해보기 💼   
+
 **선택 이유:** 
 
 </details>
@@ -263,15 +264,17 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 <details>
 <summary><span style="font-size:150%">J090</span></summary>
     
-**선택한 퀘스트:** 
-**선택 이유:** 
+**선택한 퀘스트:** 2. AI 면접관과 모의면접 해보기 💼     
+
+**선택 이유:** AI와의 피어 세션과 연계해서 진행하기 적합하다고 생각.
 
 </details>
 
 <details>
 <summary><span style="font-size:150%">J245</span></summary>
     
-**선택한 퀘스트:** 
+**선택한 퀘스트:** 1. AI 감사 디펜스 🛡️   
+
 **선택 이유:** 
 
 </details>
@@ -279,7 +282,8 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 <details>
 <summary><span style="font-size:150%">S004</span></summary>
     
-**선택한 퀘스트:** 
+**선택한 퀘스트:** 2. AI 면접관과 모의면접 해보기 💼   
+
 **선택 이유:** 
 
 </details>
