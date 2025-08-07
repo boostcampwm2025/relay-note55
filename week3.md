@@ -290,7 +290,7 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 **미션 수행일:**  8/5 (화)
 
 **미션 내용:** AI 피어세션 시간을 활용해 해당 퀘스트를 수행하면 좋을 것 같아서, 16-17일차 미션 주제인 벡터 데이터베이스에 대한 개념을 모의 면접 식으로 복습했습니다.
-<img src="">
+<img width=500 src="https://github-production-user-asset-6210df.s3.amazonaws.com/96765626/475519559-54bad6a4-e282-47bd-9c16-f244bd71f89b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250807T101935Z&X-Amz-Expires=300&X-Amz-Signature=3c9d546b6f82439417e4f70b255b0706ddeae6328c11d1c5b25503f120811f67&X-Amz-SignedHeaders=host">
 
 **느낀점:** 질문도 굉장히 구체적이고, 꼬리 질문도 정말 잘 던져줘서 복습이 잘되었습니다.
 피드백도 부족한 부분이 있다면 그때그때 해주고, 전체적으로 실제 면접관처럼 잘 해줘서 실제로 면접을 보는 것 같은 기분이 들었습니다. 이 방법으로 학습 내용을 점검하거나 실제 면접을 준비하는 데에 정말 많은 도움이 될 것 같아서 다른 분들께도 추천드립니다.
@@ -298,7 +298,7 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 **미션 수행일:**  8/7 (목)
 
 **미션 내용:** 18-19일차 미션 주제인 네트워크에 대해 학습 정리한 내용과 학습 키워드를 바탕으로 동일하게 모의 면접을 진행했습니다.
-<img src="">
+<img width=500 src="https://github-production-user-asset-6210df.s3.amazonaws.com/96765626/475519558-11cfc336-b812-4e67-9060-adfb107ee6e5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250807T101909Z&X-Amz-Expires=300&X-Amz-Signature=4e6dfb48e78671df60de3cf9f8dc5f2201c8bb4eb18592974fd8f2ca64e2da63&X-Amz-SignedHeaders=host">
 
 **느낀점:** ECHO 서버를 구현할 때 TCP, UDP 중 어떤 방식을 선택할 것인지 묻는 질문을 받았는데, 간단한 서버니까 단순히 UDP를 쓰면 되지 않을까 하고 던졌는데 아무 생각 없었던 저를 정확하게 꿰뚫더라구요. 검색으로 찾아본 결과 두 가지 방식 모두 사용 가능하다고 나와있지만, 아마 정확한 근거? 이전에 답변했던 TCP와 UDP의 차이점에 비해 "왜 UDP를 선택할 것인지?"에 대한 명확한 이유가 드러나지 않았던 점 때문에 이런 결과가 나온 것 같습니다.
 
