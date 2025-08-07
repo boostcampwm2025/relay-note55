@@ -268,6 +268,26 @@ AI에게 “나에게 감사한 점을 말해줘”라고 요청했을 때 나�
 
 **선택 이유:** AI와의 피어 세션과 연계해서 진행하기 적합하다고 생각.
 
+**수행 과정:** AI와의 피어 세션에서 해당 퀘스트를 진행했기 때문에 'AI와의 피어 세션 결과 공유'에 작성한 내용을 그대로 첨부한다. 마지막 day18-19 미션을 주제로 면접을 진행했다.   
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/87e89fc0-2289-4f9d-8d1c-582bfb7b4e3f" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/5735b72b-11de-42ba-a544-a0849dee6212" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e8240deb-e935-49f9-8433-c96ff9cffcd6" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/1ea8fe84-7d6a-4f55-97cb-7b2fd7768529" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/7e4defe9-b02a-48b6-a4cb-637f3a5957cd" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/f6f4f93a-569f-4984-ac42-c3742cfc5fcb" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/052f9f31-5c6e-425f-894f-04c66a22eb20" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/df89018e-2c82-4c12-9431-3ba877ea56b7" />    
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e87fb2d4-478d-4201-9d49-cbb1819b30fa" />    
+
 </details>
 
 <details>
